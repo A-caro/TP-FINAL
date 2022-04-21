@@ -14,7 +14,6 @@ public class PreguntasDTO implements Serializable {
     private Long idPregunta;
     private String contenidoPregunta;
     private int idConcepto;
-//    PreguntasDTO preguntasDTO;
 
 
 }
